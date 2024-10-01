@@ -106,7 +106,7 @@
 .img-container{
     height: 300px;
     width: 300px;
-    left: 30px;
+    left: 50px;
     top: 30px;
     position: relative;
 }
@@ -139,6 +139,7 @@
     z-index: 1;
     padding: 25px;
 
+
     
 }
 
@@ -147,8 +148,8 @@
     background-color: #ffffff;
     border-radius: 18px;
     box-shadow: 0px 4px 50px 0px #788F9C40;
-    width: 454px;
-    height: 469px;
+    width: 500px;
+    height: 480px;
     
 } 
 .new-lot{
@@ -183,8 +184,8 @@
 
 .pagination {
     position: relative;
-    left: 990px;   
-    top: -100px;  
+    left: 980px;   
+    top: -90px;  
     
 }
 .scroll-bar-container{
